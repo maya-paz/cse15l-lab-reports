@@ -1,4 +1,4 @@
-#My name is **Maya Dautoff**
+# My name is **Maya Dautoff**
 ## I am a student at UCSD majoring in Cogntive Science
 
 ## Three Things About Me
@@ -6,4 +6,4 @@
 2. I want to study computational linguistics
 3. I can speak Mandarin Chinese and Spanish conversationally
 
-#Thanks for Reading!
+# Thanks for Reading!
