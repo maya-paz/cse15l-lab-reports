@@ -39,5 +39,14 @@ This specific request has the port number of 4250 which does not change. however
 ***
 #### Part Two
 
+Private Key
 
+Public Key
 
+Login to SSH
+![Image](images/login.png)
+
+***
+#### Part Three
+
+One thing I learned from lab 2, I learned how to manipulate the URL to create different outputs. If you have the right code, the URL acts as input for the code. 
