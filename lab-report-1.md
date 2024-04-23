@@ -14,7 +14,7 @@ In this lab report, I will be showing what happens when I use the `cd`, `ls`, an
 
 #### Using `cd` with no argument:
 
-![Image](cd-noarg.png)
+![Image](images/cd-noarg.png)
 
 The absolute path to the working directory is right before the command was run: `/home`.
 
@@ -25,7 +25,7 @@ It is not an error, it simply doesn't do anything.
 
 #### Using `cd` with a path to a directory:
 
-![Image](cd-directory.png)
+![Image](images/cd-directory.png)
 
 The absolute path to the working directory is right before the command was run: `/home`.
 
@@ -36,7 +36,7 @@ It is not an error and working properly.
 
 #### Using `cd` with a path to a file:
 
-![Image](cd-file.png)
+![Image](images/cd-file.png)
 
 The absolute path to the working directory is right before the command was run: `/home/desktop/`.
 
@@ -49,7 +49,7 @@ It resulted in an error because a file was used as an argument as opposed to a d
 
 #### Using `ls` with no argument:
 
-![Image](ls-noarg.png)
+![Image](images/ls-noarg.png)
 
 The absolute path to the working directory is right before the command was run: `/home`.
 
@@ -59,7 +59,7 @@ This was not an error.
 
 #### Using `ls` with a path to a directory:
 
-![Image](ls-directory1.png)
+![Image](images/ls-directory1.png)
 
 The absolute path to the working directory is right before the command was run: `/home/desktop/`.
 
@@ -69,7 +69,7 @@ This was not an error.
 
 #### Using `ls` with a path to a file:
 
-![Image](ls-file1.png)
+![Image](images/ls-file1.png)
 
 The absolute path to the working directory is right before the command was run: `/home/desktop/`.
 
@@ -83,7 +83,7 @@ This was not an error.
 
 #### Using `cat` with no argument:
 
-![Image](cat-noarg.png)
+![Image](images/cat-noarg.png)
 
 The absolute path to the working directory is right before the command was run: `/home`.
 
@@ -93,7 +93,7 @@ This is an error because there was the incorrect argument type.
 
 #### Using `cat` with a path to a directory:
 
-![Image](cat-directory.png)
+![Image](images/cat-directory.png)
 
 The absolute path to the working directory is right before the command was run: `/home`.
 
@@ -103,7 +103,7 @@ This is an error because there was the incorrect argument type.
 
 #### Using `cat` with a path to a file:
 
-![Image](cat-file.png)
+![Image](images/cat-file.png)
 
 The absolute path to the working directory is right before the command was run: `/home/desktop`.
 
