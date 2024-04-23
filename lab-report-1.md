@@ -14,13 +14,13 @@ In this lab report, I will be showing what happens when I use the `cd`, `ls`, an
 
 #### Using `cd` with no argument:
 
-![Image](images/cd-noarg.png)
+![Image](images/cd-noarg2.png)
 
-The absolute path to the working directory is right before the command was run: `/home`.
+The absolute path to the working directory is right before the command was run: `/home/Desktop`.
 
-I got this output because without a direction of a place to go to, `cd` doesn't change anything. It needs a place to change the directory to. 
+I got this output because without a direction of a place to go to, `cd` changes to home directory.
 
-It is not an error, it simply doesn't do anything. 
+It is not an error. 
 
 
 #### Using `cd` with a path to a directory:
@@ -87,9 +87,9 @@ This was not an error.
 
 The absolute path to the working directory is right before the command was run: `/home`.
 
-`cat` displays files onto the screen in terminal, with no argument to read, nothing shows up. 
+`cat` displays files onto the screen in the terminal, with no argument to read, it provides an opportunity for you to type something in, and then prints that. 
 
-This is an error because there was the incorrect argument type. 
+This is not an error. 
 
 #### Using `cat` with a path to a directory:
 
