@@ -43,6 +43,7 @@ Private Key
 ![Image](images/privateKey.png)
 
 Public Key
+![Image](images/publicKey.png)
 
 Login to SSH
 ![Image](images/login.png)
